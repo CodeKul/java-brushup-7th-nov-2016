@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/burushup.iml" filepath="$PROJECT_DIR$/.idea/modules/burushup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/burushup_main.iml" filepath="$PROJECT_DIR$/.idea/modules/burushup_main.iml" group="burushup" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/burushup_test.iml" filepath="$PROJECT_DIR$/.idea/modules/burushup_test.iml" group="burushup" />
+    </modules>
+  </component>
+</project>

@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/burushup.iml" filepath="$PROJECT_DIR$/.idea/modules/burushup.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/burushup_main.iml" filepath="$PROJECT_DIR$/.idea/modules/burushup_main.iml" group="burushup" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/burushup_test.iml" filepath="$PROJECT_DIR$/.idea/modules/burushup_test.iml" group="burushup" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simple-module/simple-module.iml" filepath="$PROJECT_DIR$/.idea/modules/simple-module/simple-module.iml" group="simple-module" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simple-module/simple-module_main.iml" filepath="$PROJECT_DIR$/.idea/modules/simple-module/simple-module_main.iml" group="simple-module" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simple-module/simple-module_test.iml" filepath="$PROJECT_DIR$/.idea/modules/simple-module/simple-module_test.iml" group="simple-module" />
     </modules>
   </component>
 </project>

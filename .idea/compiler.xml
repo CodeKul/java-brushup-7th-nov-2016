@@ -21,6 +21,8 @@
     <bytecodeTargetLevel>
       <module name="burushup_main" target="1.8" />
       <module name="burushup_test" target="1.8" />
+      <module name="simple-module_main" target="1.8" />
+      <module name="simple-module_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

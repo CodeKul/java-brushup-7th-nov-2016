@@ -10,9 +10,13 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Gradle: org.overturetool.core:parser:2.4.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.mparticle:android-button-kit:aar:4.9.1" level="project" />
+    <orderEntry type="module" module-name="simple-module_main" />
     <orderEntry type="library" name="Gradle: org.overturetool.core:ast:2.4.2" level="project" />
     <orderEntry type="library" name="Gradle: org.overturetool.core:testframework:2.4.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.mparticle:android-kit-base:aar:4.9.1" level="project" />
     <orderEntry type="library" name="Gradle: junit:junit:4.11" level="project" />
+    <orderEntry type="library" name="Gradle: com.mparticle:android-core:aar:4.9.1" level="project" />
     <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
   </component>
 </module>

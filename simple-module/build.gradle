@@ -16,11 +16,11 @@ dependencies {
 
 jar {
     manifest {
-        attributes 'Main-Class': 'Main'
+        attributes 'Main-Class': 'com.codekul.javabrushup.Main'
     }
 }
 
 task codeRun(type: JavaExec) {
     classpath sourceSets.main.runtimeClasspath
-    main = "Main"
+    main = "com.codekul.javabrushup.Main"
 }
